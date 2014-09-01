@@ -1,0 +1,14 @@
+eclipse.preferences.version=1
+encoding//examples/activeqt/webbrowser/mainwindow_rc.py=utf-8
+encoding//examples/activeqt/webbrowser/ui_mainwindow.py=utf-8
+encoding//examples/animation/animatedtiles/animatedtiles_rc.py=utf-8
+encoding//examples/animation/appchooser/appchooser_rc.py=utf-8
+encoding//examples/animation/easing/ui_form.py=utf-8
+encoding//examples/animation/states/states_rc.py=utf-8
+encoding//examples/designer/calculatorform/ui_calculatorform.py=utf-8
+encoding//sapint/SharedFunction.py=utf-8
+encoding//sapint/__init__.py=utf-8
+encoding//sapint/tableutil/BigTable.py=utf-8
+encoding//sapint/tableutil/ReadTable.py=utf-8
+encoding//sapnwrfc/examples/greek_test.py=utf-8
+encoding//sapnwrfc/examples/sapnwrfc_test.py=utf-8

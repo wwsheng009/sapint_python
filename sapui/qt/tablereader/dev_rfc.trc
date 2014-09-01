@@ -1,0 +1,143 @@
+
+**** Trace file opened at 2014-04-22, 14:21:05 中国标准时间
+ RFC library: 720, Current working directory: d:\java\workspace\sapintpy\sapui\qt\tablereader, Program: python
+ Hardware: PC with Windows NT 4x AMD64 Level 6 (Mod 58 Step 9), Operating_system: Windows NT 6.1, Kernel_release: 720 patchlevel 20
+ Hostname: PACTERA-VINCENT, IP address: 188.188.1.15, IP address_v6: 188.188.1.15
+
+
+LOCATION    CPIC (TCP/IP) on local host with Unicode
+ERROR       connection to partner '122.112.65.143:3307' broken
+TIME        Tue Apr 22 14:21:05 2014
+RELEASE     720
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -6
+MODULE      nixxi.cpp
+LINE        5082
+DETAIL      NiIRead: P=122.112.65.143:3307; L=0.0.0.0:55696
+SYSTEM CALL recv
+ERRNO       10054
+ERRNO TEXT  WSAECONNRESET: Connection reset by peer
+COUNTER     3
+
+
+**** Trace file opened at 2014-04-24, 10:40:19 中国标准时间
+ RFC library: 720, Current working directory: d:\java\workspace\sapintpy\sapui\qt\tablereader, Program: python
+ Hardware: PC with Windows NT 4x AMD64 Level 6 (Mod 58 Step 9), Operating_system: Windows NT 6.1, Kernel_release: 720 patchlevel 20
+ Hostname: PACTERA-VINCENT, IP address: 188.188.1.15, IP address_v6: 188.188.1.15
+
+
+LOCATION    CPIC (TCP/IP) on local host with Unicode
+ERROR       connection to partner '122.112.65.143:3307' broken
+TIME        Thu Apr 24 10:40:19 2014
+RELEASE     720
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -6
+MODULE      nixxi.cpp
+LINE        5082
+DETAIL      NiIRead: P=122.112.65.143:3307; L=0.0.0.0:58560
+SYSTEM CALL recv
+ERRNO       10054
+ERRNO TEXT  WSAECONNRESET: Connection reset by peer
+COUNTER     3
+
+
+**** Trace file opened at 2014-04-24, 10:41:47 中国标准时间
+ RFC library: 720, Current working directory: d:\java\workspace\sapintpy\sapui\qt\tablereader, Program: python
+ Hardware: PC with Windows NT 4x AMD64 Level 6 (Mod 58 Step 9), Operating_system: Windows NT 6.1, Kernel_release: 720 patchlevel 20
+ Hostname: PACTERA-VINCENT, IP address: 188.188.1.15, IP address_v6: 188.188.1.15
+
+
+LOCATION    CPIC (TCP/IP) on local host with Unicode
+ERROR       connection to partner '122.112.65.143:3307' broken
+TIME        Thu Apr 24 10:41:47 2014
+RELEASE     720
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -6
+MODULE      nixxi.cpp
+LINE        5082
+DETAIL      NiIRead: P=122.112.65.143:3307; L=0.0.0.0:58690
+SYSTEM CALL recv
+ERRNO       10054
+ERRNO TEXT  WSAECONNRESET: Connection reset by peer
+COUNTER     3
+
+
+**** Trace file opened at 2014-04-24, 11:07:25 中国标准时间
+ RFC library: 720, Current working directory: d:\java\workspace\sapintpy\sapui\qt\tablereader, Program: python
+ Hardware: PC with Windows NT 4x AMD64 Level 6 (Mod 58 Step 9), Operating_system: Windows NT 6.1, Kernel_release: 720 patchlevel 20
+ Hostname: PACTERA-VINCENT, IP address: 188.188.1.15, IP address_v6: 188.188.1.15
+
+
+LOCATION    CPIC (TCP/IP) on local host with Unicode
+ERROR       connection to partner '122.112.65.143:3307' broken
+TIME        Thu Apr 24 11:07:25 2014
+RELEASE     720
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -6
+MODULE      nixxi.cpp
+LINE        5082
+DETAIL      NiIRead: P=122.112.65.143:3307; L=0.0.0.0:60324
+SYSTEM CALL recv
+ERRNO       10054
+ERRNO TEXT  WSAECONNRESET: Connection reset by peer
+COUNTER     3
+
+
+LOCATION    CPIC (TCP/IP) on local host with Unicode
+ERROR       connection to partner '122.112.65.143:3307' broken
+TIME        Thu Apr 24 11:07:27 2014
+RELEASE     720
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -6
+MODULE      nixxi.cpp
+LINE        5082
+DETAIL      NiIRead: P=122.112.65.143:3307; L=0.0.0.0:60326
+SYSTEM CALL recv
+ERRNO       10054
+ERRNO TEXT  WSAECONNRESET: Connection reset by peer
+COUNTER     6
+
+
+LOCATION    CPIC (TCP/IP) on local host with Unicode
+ERROR       connection to partner '122.112.65.143:3307' broken
+TIME        Thu Apr 24 11:07:29 2014
+RELEASE     720
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -6
+MODULE      nixxi.cpp
+LINE        5082
+DETAIL      NiIRead: P=122.112.65.143:3307; L=0.0.0.0:60328
+SYSTEM CALL recv
+ERRNO       10054
+ERRNO TEXT  WSAECONNRESET: Connection reset by peer
+COUNTER     9
+
+
+LOCATION    CPIC (TCP/IP) on local host with Unicode
+ERROR       connection to partner '122.112.65.143:3307' broken
+TIME        Thu Apr 24 11:07:40 2014
+RELEASE     720
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -6
+MODULE      nixxi.cpp
+LINE        5082
+DETAIL      NiIRead: P=122.112.65.143:3307; L=0.0.0.0:60332
+SYSTEM CALL recv
+ERRNO       10054
+ERRNO TEXT  WSAECONNRESET: Connection reset by peer
+COUNTER     12
+
+
+**** Trace file opened at 2014-04-30, 10:06:35 中国标准时间
+ RFC library: 720, Current working directory: d:\java\workspace\sapintpy\sapui\qt\tablereader, Program: python
+ Hardware: PC with Windows NT 4x AMD64 Level 6 (Mod 58 Step 9), Operating_system: Windows NT 6.1, Kernel_release: 720 patchlevel 20
+ Hostname: PACTERA-VINCENT, IP address: 188.188.1.15, IP address_v6: 188.188.1.15
+
+Field symbol has not yet been assigned.

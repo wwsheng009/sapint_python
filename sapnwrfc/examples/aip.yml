@@ -1,0 +1,8 @@
+ashost: 122.112.65.143
+sysnr: "07"
+client: "800"
+user: wwsheng
+passwd: wwsheng
+lang: ZH
+trace: 3
+loglevel: warn

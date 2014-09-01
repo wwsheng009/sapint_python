@@ -1,0 +1,9 @@
+ashost: 188.188.3.190
+sysnr: "00"
+client: "800"
+user: wws
+passwd: wwsheng
+lang: ZH
+trace: 3
+loglevel: warn
+saprouter: "/H/121.10.5.52/H/"
